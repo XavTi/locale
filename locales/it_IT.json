@@ -994,106 +994,106 @@
         "header-title-with-currency": "{{currency}} filled amount"
       },
       "status-col": {
-        "header-title": "Status",
-        "open": "Open",
-        "cancelled": "Canceled",
-        "filled": "Filled",
-        "pending": "Pending"
+        "header-title": "Stato",
+        "open": "Aperto",
+        "cancelled": "Annullato",
+        "filled": "Eseguito",
+        "pending": "In sospeso"
       },
       "executed-col": {
-        "header-title": "Filled",
-        "header-title-with-currency": "{{currency}} filled"
+        "header-title": "Eseguito",
+        "header-title-with-currency": "{{currency}} eseguito"
       },
       "order-total-col": {
-        "header-title": "Total",
-        "header-title-with-currency": "{{currency}} total"
+        "header-title": "Totale",
+        "header-title-with-currency": "{{currency}} totale"
       },
       "trade-total-col": {
-        "header-title": "Trade total",
-        "header-title-with-currency": "{{currency}} trade total"
+        "header-title": "Scambi complessivi",
+        "header-title-with-currency": "{{currency}} scambi complessivi"
       },
       "size-col": {
-        "header-title": "Amount",
-        "header-title-with-currency": "{{currency}} amount"
+        "header-title": "Quantità",
+        "header-title-with-currency": "{{currency}} quantità"
       },
       "price-col": {
-        "header-title": "Price",
-        "header-title-with-currency": "{{currency}} price"
+        "header-title": "Prezzo",
+        "header-title-with-currency": "{{currency}} prezzo"
       },
       "pair-col": {
-        "header-title": "Pair"
+        "header-title": "Paio"
       },
       "filled-col": {
-        "header-title": "Amount filled",
-        "header-title-with-currency": "{{currency}} amount filled"
+        "header-title": "Importo riempito",
+        "header-title-with-currency": "{{currency}} importo riempito"
       },
       "fee-col": {
-        "header-title": "Fee",
-        "header-title-with-currency": "{{currency}} fee",
-        "no-fee": "No fee"
+        "header-title": "Tassa",
+        "header-title-with-currency": "{{currency}} tassa",
+        "no-fee": "Senza costi"
       },
       "condition-col": {
-        "header-title": "Stop price",
-        "header-title-with-currency": "{{currency}} stop price"
+        "header-title": "Stop prezzo",
+        "header-title-with-currency": "{{currency}} stop prezzo"
       },
       "time-col": {
-        "header-title": "Executed"
+        "header-title": "Eseguito"
       },
       "time-filled-col": {
-        "header-title": "Executed"
+        "header-title": "Eseguito"
       }
     },
     "recent-trades": {
-      "title": "Recent trades",
-      "order-size-col": "{{symbol}} size",
-      "price-col": "{{symbol}} price",
-      "time-col": "Time"
+      "title": "Scambi recenti",
+      "order-size-col": "{{symbol}} dimensione",
+      "price-col": "{{symbol}} prezzo",
+      "time-col": "Tempo"
     },
     "orderbook": {
       "title": "USD",
-      "title-no-fiat": "Order book",
-      "order-size-col": "{{symbol}} size",
-      "my-size-col": "My size",
-      "price-col": "{{symbol}} price",
-      "average": "Avg. price",
-      "sum-size": "{{symbol}} sum",
-      "num-decimals": "{{decimals}} decimal",
-      "num-decimals_plural": "{{decimals}} decimals",
+      "title-no-fiat": "Portafoglio ordini",
+      "order-size-col": "{{symbol}} dimensione",
+      "my-size-col": "Dimensioni",
+      "price-col": "{{symbol}} prezzo",
+      "average": "Media Prezzo",
+      "sum-size": "{{symbol}} somma",
+      "num-decimals": "{{decimals}} decimale",
+      "num-decimals_plural": "{{decimals}} decimali",
       "spread": "<0>{{percent}}</0> spread"
     },
     "spread": "Spread",
-    "learn-about-our-fees": "Learn more about our <1>fees<1>."
+    "learn-about-our-fees": "Ulteriori informazioni sulle nostre <1>fees<1>."
   },
   "auth": {
-    "create-an-account": "Create an account",
-    "forgotten": "Lost 2FA?",
-    "sign-in-now": "Sign in now",
-    "sign-in": "Sign in",
-    "sign-out": "Sign out",
+    "create-an-account": "Crea un account",
+    "forgotten": "Hai perso il 2FA?",
+    "sign-in-now": "Registrati adesso",
+    "sign-in": "Registrati",
+    "sign-out": "Disconnettiti",
     "password-strength": {
-      "label": "Password strength",
-      "0": "Very weak",
-      "1": "Weak",
-      "2": "Medium",
-      "3": "Strong",
-      "4": "Very strong"
+      "label": "Sicurezza della password",
+      "0": "Molto debole",
+      "1": "Debole",
+      "2": "Medio",
+      "3": "Forte",
+      "4": "Molto forte"
     },
     "password-form": {
       "password": {
         "label": "Password",
-        "placeholder": "Enter your password"
+        "placeholder": "Inserisci la tua password"
       },
       "code": {
-        "label": "Two-factor authentication",
-        "placeholder": "Enter your two-factor authentication code"
+        "label": "Autenticazione a due fattori",
+        "placeholder": "Inserisci il tuo codice di autenticazione a due fattori"
       }
     },
     "new-wallets": {
       "btc": {
-        "title": "You can now send, receive and store Bitcoin with Nash!",
-        "subtext": "We’ll notify you when Bitcoin trading pairs are available on the Nash Exchange.",
+        "title": "Ora puoi inviare, ricevere e archiviare Bitcoin con Nash!",
+        "subtext": "Ti informeremo quando le coppie di trading Bitcoin saranno disponibili su Nash Exchange.",
         "btn-bitcoin": "Deposit Bitcoin",
-        "btn-funds": "Continue to portfolio"
+        "btn-funds": "Continua con il portafoglio"
       }
     },
     "session-expiry-modal": {
